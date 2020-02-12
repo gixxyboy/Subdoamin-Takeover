@@ -1,5 +1,1 @@
-#include<stdio.h>
-void main(void)
-{
-system(“shutdown-s”);
-}
+Welcome to sunday samayal
